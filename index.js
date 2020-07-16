@@ -26,7 +26,7 @@ app.use(bodyParser.json());
 
 app.get('/api', handler.alive)
 app.post('/api/signup', handler.signup)
-// app.post('/api/login', handler.login)
+app.post('/api/login', handler.login)
 // app.post('/api/edit', verifyToken,  handler.editUser)
 
 

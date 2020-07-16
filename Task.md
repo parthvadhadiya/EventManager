@@ -8,8 +8,8 @@ Purpose of this system is to manage public events. At the time of submission, su
 
 (Change `[ ]` to `[X]` for features that are implemented)
 
-- [ ] Signup using Email and Password.
-- [ ] Login using Email and Password.
+- [X] Signup using Email and Password.
+- [X] Login using Email and Password.
 - [ ] Logout.
 - [ ] Edit Profile. Can edit following details:
   - FirstName, LastName, Date of Birth, Gender

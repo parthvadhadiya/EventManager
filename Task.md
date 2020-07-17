@@ -26,12 +26,12 @@ Purpose of this system is to manage public events. At the time of submission, su
 - [X] Leave an event.
 - [X] Show participants of an event.
 - [X] Show details of creator of an event.
-
+ 
 ## API Requirements
 
-- [ ] README for getting started.
-- [ ] Request Validation
-- [ ] API Documentation.
+- [X] README for getting started.
+- [X] Request Validation
+- [X] API Documentation.
 
 ## Technologies to use
 

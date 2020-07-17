@@ -1,4 +1,5 @@
-const monk = require('monk')
+'use strict'
+const monk = require('monk');
 
-const db = monk('localhost/EventDB')
-module.exports = db
+const db = monk('localhost/EventDB');
+module.exports = db;

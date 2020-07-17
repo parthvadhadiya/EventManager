@@ -7,13 +7,13 @@ Purpose of this system is to manage public events. At the time of submission, su
 ## API list
 
 (Change `[ ]` to `[X]` for features that are implemented)
-
+ 
 - [X] Signup using Email and Password.
 - [X] Login using Email and Password.
-- [ ] Logout.
-- [ ] Edit Profile. Can edit following details:
+- [X] Logout.
+- [X] Edit Profile. Can edit following details:
   - FirstName, LastName, Date of Birth, Gender
-- [ ] Create a new event with following details:
+- [X] Create a new event with following details:
   - Title (string)
   - Description (text)
   - Date
@@ -21,11 +21,11 @@ Purpose of this system is to manage public events. At the time of submission, su
   - Place
   - Participants
   - Maximum participants allowed
-- [ ] Show events other users have created.
-- [ ] Join an event.
-- [ ] Leave an event.
-- [ ] Show participants of an event.
-- [ ] Show details of creator of an event.
+- [X] Show events other users have created.
+- [X] Join an event.
+- [X] Leave an event.
+- [X] Show participants of an event.
+- [X] Show details of creator of an event.
 
 ## API Requirements
 
